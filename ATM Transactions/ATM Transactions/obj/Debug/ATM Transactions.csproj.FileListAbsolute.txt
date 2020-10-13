@@ -1,0 +1,7 @@
+C:\1JOHNSON\C#\ATM Transactions\ATM Transactions\obj\Debug\ATM Transactions.csprojAssemblyReference.cache
+C:\1JOHNSON\C#\ATM Transactions\ATM Transactions\obj\Debug\ATM Transactions.csproj.CoreCompileInputs.cache
+C:\1JOHNSON\C#\ATM Transactions\ATM Transactions\bin\Debug\ATM Transactions.exe.config
+C:\1JOHNSON\C#\ATM Transactions\ATM Transactions\bin\Debug\ATM Transactions.exe
+C:\1JOHNSON\C#\ATM Transactions\ATM Transactions\bin\Debug\ATM Transactions.pdb
+C:\1JOHNSON\C#\ATM Transactions\ATM Transactions\obj\Debug\ATM Transactions.exe
+C:\1JOHNSON\C#\ATM Transactions\ATM Transactions\obj\Debug\ATM Transactions.pdb
