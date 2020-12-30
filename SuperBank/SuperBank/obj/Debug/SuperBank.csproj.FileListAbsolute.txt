@@ -1,0 +1,7 @@
+C:\1JOHNSON\C#\SuperBank\SuperBank\bin\Debug\SuperBank.exe.config
+C:\1JOHNSON\C#\SuperBank\SuperBank\bin\Debug\SuperBank.exe
+C:\1JOHNSON\C#\SuperBank\SuperBank\bin\Debug\SuperBank.pdb
+C:\1JOHNSON\C#\SuperBank\SuperBank\obj\Debug\SuperBank.csproj.CoreCompileInputs.cache
+C:\1JOHNSON\C#\SuperBank\SuperBank\obj\Debug\SuperBank.exe
+C:\1JOHNSON\C#\SuperBank\SuperBank\obj\Debug\SuperBank.pdb
+C:\1JOHNSON\C#\SuperBank\SuperBank\obj\Debug\SuperBank.csprojAssemblyReference.cache
