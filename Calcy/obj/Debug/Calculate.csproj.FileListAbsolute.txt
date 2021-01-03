@@ -1,0 +1,7 @@
+C:\1JOHNSON\ASP.NET Brackeys\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\1JOHNSON\ASP.NET Brackeys\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\1JOHNSON\ASP.NET Brackeys\Calculate\bin\Debug\Calculate.exe.config
+C:\1JOHNSON\ASP.NET Brackeys\Calculate\bin\Debug\Calculate.exe
+C:\1JOHNSON\ASP.NET Brackeys\Calculate\bin\Debug\Calculate.pdb
+C:\1JOHNSON\ASP.NET Brackeys\Calculate\obj\Debug\Calculate.exe
+C:\1JOHNSON\ASP.NET Brackeys\Calculate\obj\Debug\Calculate.pdb
